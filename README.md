@@ -1,4 +1,4 @@
-# SQL Top50 LeetCode
+# SQL Top50 LeetCode Solutions
 
 You can find solutions to SQL Top 50 questions on LeetCode. Only the solution codes are shared for each question.
 
